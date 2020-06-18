@@ -575,7 +575,7 @@
         overflow: auto;
         grid-template: 100% / 25% 75%;
         grid-gap: 0;
-        max-height: 18em;
+        height: 18em;
     }
 
     #container {
