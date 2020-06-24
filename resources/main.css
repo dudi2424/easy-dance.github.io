@@ -517,19 +517,32 @@
 
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
@@ -1026,19 +1039,32 @@
 
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
@@ -1531,19 +1557,32 @@
 
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
@@ -2026,19 +2065,32 @@
     }
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
@@ -2522,19 +2574,32 @@
 
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
@@ -3016,19 +3081,32 @@
     }
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
@@ -3509,19 +3587,32 @@
     }
 
     footer {
-        background-color: #205cd3;
-        padding: .5em;
         height: auto;
         margin-top: 5em;
         font-size: 1em;
         text-align: center;
-        color: #fff;
+        color: black;
+    }
+    
+    #footer-facebook-container {
+        height: auto;
+        margin-top: 5em;
+        background-color: #205cd3;
+	    width: 100%;
     }
 
-    footer img {
+    footer img { 
+        padding: .5em;
         width: 20%;
         background-color: #fff;
-        padding: 1%;
+        height: auto;
+        margin: 1em auto;
+    }
+
+    footer p {
+        text-align: left;
+        font-family: 'Verdna', sans-serif;
+        font-size: .8em 
     }
 
     #podpis {
